@@ -22,22 +22,24 @@ else
 end
 
 # Case Statement Ruby -
-# In Ruby, we use 'case' instead of 'switch' and 'when' instead of 'case'.
-# The case statement matches one statement with multiple conditions
-# just like a switch statement in other languages.
-# also we use else instead of default
+  # In Ruby, we use 'case' instead of 'switch' and 'when' instead of 'case'.
+  # The case statement matches one statement with multiple conditions
+  # just like a switch statement in other languages.
+  # also we use else instead of default
 
 # Exm -
 # print works same as put only difference is print doesn't add next line
 # after statement puts does.
 
-print "Enter your day: ";
+# print "Enter your day: ";
+
 # Here we will use GUI(getting user interface) for user input
 # its ruby syntax for GUI similar to other languages which have there own GUI
 # gets - its for getting user input
 # chomp() - chomp adds new line after user input.
 # gets and chomp are predefined in ruby library.
 
+print "Enter your day: ";
 day = gets.chomp()
 case day
 when "Monday"

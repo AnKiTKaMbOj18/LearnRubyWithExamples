@@ -1,7 +1,7 @@
 # Ruby for Loop -
-# Ruby for loop iterates over a specific range of numbers.
-# Hence, for loop is used if a program has fixed number of iterations.
-# Ruby for loop will execute once for each element in expression.
+  # Ruby for loop iterates over a specific range of numbers.
+  # Hence, for loop is used if a program has fixed number of iterations.
+  # Ruby for loop will execute once for each element in expression.
 
 # Exm 1-
 # its similar to other languages for loop with some syntax diffrence , working is same
