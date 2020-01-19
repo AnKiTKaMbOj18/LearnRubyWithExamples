@@ -11,7 +11,7 @@ More to follow......
 
 #### For More information and understanding follow me on below links -
 ##### Github - https://github.com/ankitkamboj18
-##### twitter - https://twitter.com/imankitkamboj18
-##### linkedin - https://www.linkedin.com/in/ankitkamboj18
-##### medium - https://medium.com/@ankitkamboj18
-##### gmail - ak.ankitkamboj18@gmail.com
+##### Twitter - https://twitter.com/imankitkamboj18
+##### Linkedin - https://www.linkedin.com/in/ankitkamboj18
+##### Medium - https://medium.com/@ankitkamboj18
+##### G-mail - ak.ankitkamboj18@gmail.com
